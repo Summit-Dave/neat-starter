@@ -5,7 +5,7 @@ links:
   - title: Website Tess
     url: https://www.11ty.dev/
     desc: Eleventy is a simpler static site generator.
-  - title: Alpine.js
+  - title: Test
     url: https://github.com/alpinejs/alpine
     desc: A minimal framework for composing JavaScript behavior in your markup.
   - title: Tailwind CSS
